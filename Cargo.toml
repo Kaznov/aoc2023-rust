@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0.79"
+thiserror = "1.0.56"
 itertools = "0.12.0"
 ndarray = "0.15.6"
 num-integer = "0.1.45"
